@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I am a passionate data analyst with a strong bac
 
 ## 📊 Projects Overview  
 
-### [1. World's Population, HDI and GDP](1. World's Population, HDI and GDP)  
+### [1. World's Population, HDI and GDP]([1. World's Population, HDI and GDP](https://github.com/jvice2/Data-Analysis-Portfolio/tree/main/1.%20World's%20Population%2C%20HDI%20and%20GDP))  
 - **Description:** A description glance about world's population and some indexes.  
 - **Technologies Used:** Web Scraping, Pandas, PowerBI
 
