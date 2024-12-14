@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! I am a passionate data analyst with a strong bac
 - **Description:** A description glance about world's population and some indexes.  
 - **Technologies Used:** Web Scraping, Pandas, PowerBI
 
-### 2. Some Cuban Airbnb
+### [2. Some Cuban Airbnb](https://github.com/jvice2/Data-Analysis-Portfolio/tree/main/2.%20Some%20Cuban%20Airbnb)
 - **Description:** A glance of the top airbnb recommendations in Cuba.
 - **Technologies Used:** Web Scraping, Pandas, Tableau
 
