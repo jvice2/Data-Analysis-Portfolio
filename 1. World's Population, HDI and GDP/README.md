@@ -1,6 +1,6 @@
 # World's Population, HDI and GDP Analysis 
 
-![Project Logo](link_to_your_project_logo.png)
+![Project Logo](RIFFn)
 
 ## Table of Contents  
 - [Project Overview](#project-overview)  
