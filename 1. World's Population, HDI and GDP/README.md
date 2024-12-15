@@ -1,6 +1,6 @@
 # World's Population, HDI and GDP Analysis 
 
-[1. World's Population, HDI and GDP/world.png](https://github.com/jvice2/Data-Analysis-Portfolio/blob/286c22b110206407e997f8ed7b0a853b0edd6c07/1.%20World's%20Population%2C%20HDI%20and%20GDP/world.png)
+![1. World's Population, HDI and GDP/world.png](https://github.com/jvice2/Data-Analysis-Portfolio/blob/286c22b110206407e997f8ed7b0a853b0edd6c07/1.%20World's%20Population%2C%20HDI%20and%20GDP/world.png)
 
 ## Table of Contents  
 - [Project Overview](#project-overview)  
