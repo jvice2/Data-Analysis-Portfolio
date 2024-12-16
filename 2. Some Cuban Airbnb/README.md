@@ -1,4 +1,4 @@
-# World's Population, HDI and GDP Analysis 
+# Analysis of Airbnb Listings in Cuba 
 
 ## Table of Contents  
 - [Project Overview](#project-overview)  
