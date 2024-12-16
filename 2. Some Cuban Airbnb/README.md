@@ -32,4 +32,4 @@ In this analysis, I explore the Airbnb listings in Cuba to uncover insights abou
 The analysis performed in this project includes:
 - Data cleaning and preprocessing
 - Performed correlation analysis to investigate relationships between listing prices and other variables.
-- Visualizations in Tableau Public
+- Visualizations in [Tableau Public](https://public.tableau.com/views/CubaAirbnb/GlobalView?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
