@@ -3,7 +3,8 @@
 ## Table of Contents  
 - [Project Overview](#project-overview)  
 - [Dataset](#dataset)  
-- [Analysis](#analysis)   
+- [Analysis](#analysis)
+- [Important](#important)
 
 
 ## Project Overview  
@@ -39,4 +40,7 @@ Welcome to my analysis of hurricanes that have occurred in the 21st century! Thi
 
 3. **Data Analysis:**  
    - Conducted exploratory data analysis to identify trends over the years.  
-   - Used pivot tables and charts to visualize the most affected regions and compare hurricane frequency and intensity. 
+   - Used pivot tables and charts to visualize the most affected regions and compare hurricane frequency and intensity.
+     
+## Important:
+I add comments on the excel datasheets explaining every step of the project, so make sure to activate the show all comments option int the review tab.
