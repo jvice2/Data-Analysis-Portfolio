@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! I am a passionate data analyst with a strong bac
 - **Description:** A glance of the top airbnb recommendations in Cuba.
 - **Technologies Used:** Web Scraping, Pandas, Tableau
 
-### [3. Hurricanes in the current century](https://github.com/jvice2/Data-Analysis-Portfolio/tree/main/Hurricanes%20in%20the%20current%20century)
+### [3. Hurricanes in the current century](https://github.com/jvice2/Data-Analysis-Portfolio/tree/d207201b596232d1d9924772c25b05a1884ff6cd/3.Hurricanes%20in%20the%20current%20century)
 - **Description:** Analysis of the hurricanes from 2000 to 2023.
 - **Technologies Used:** Excel  
 
